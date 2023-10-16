@@ -11,6 +11,6 @@ Goto the following link to check how to connect your GitHUb account and Google C
 
 Once you set up the Google Colab with Githib, please follow the below mentioned steps:
 
-# [Google Colab Notebook for AI lab] (https://github.com/drvinaykumar/LabAI/blob/83d7fa45ef76a92f663d89a79e653af3d3bc0fc5/GitwithColab.ipynb)
+# [Google Colab Notebook for AI lab](https://github.com/drvinaykumar/LabAI/blob/83d7fa45ef76a92f663d89a79e653af3d3bc0fc5/GitwithColab.ipynb)
 
 
